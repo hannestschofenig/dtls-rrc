@@ -1,0 +1,87 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2021-05-30T02:33:55.843603+00:00",
+  "repo": "tlswg/dtls-rrc",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "id": "MDU6SXNzdWU5MDU4NTUwMzM=",
+      "title": "Use separate seqno and replay windows?",
+      "url": "https://github.com/tlswg/dtls-rrc/issues/1",
+      "state": "OPEN",
+      "author": "thomas-fossati",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Should the return routability check use separate sequence numbers and replay windows?\r\n",
+      "createdAt": "2021-05-28T18:24:35Z",
+      "updatedAt": "2021-05-28T18:24:35Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 2,
+      "id": "MDU6SXNzdWU5MDU4NTU2NDI=",
+      "title": "Use Heartbeat instead?",
+      "url": "https://github.com/tlswg/dtls-rrc/issues/2",
+      "state": "OPEN",
+      "author": "thomas-fossati",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Should the heartbeat message be re-used instead of the proposed new message exchange?",
+      "createdAt": "2021-05-28T18:25:03Z",
+      "updatedAt": "2021-05-28T18:25:03Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": []
+}
