@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-06-08T01:40:50.612389+00:00",
+  "timestamp": "2021-06-10T01:13:01.046632+00:00",
   "repo": "tlswg/dtls-rrc",
   "labels": [
     {
@@ -79,6 +79,22 @@
       "body": "Should the heartbeat message be re-used instead of the proposed new message exchange?",
       "createdAt": "2021-05-28T18:25:03Z",
       "updatedAt": "2021-05-28T18:25:03Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 3,
+      "id": "MDU6SXNzdWU5MTUyMzQxMDk=",
+      "title": "probe old path as well as new?",
+      "url": "https://github.com/tlswg/dtls-rrc/issues/3",
+      "state": "OPEN",
+      "author": "kaduk",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Martin Duke's ballot comment on draft-ietf-dtls-connection-id referenced the procedures of https://datatracker.ietf.org/doc/html/rfc9000#section-9.3.3 (which operates in essentially the same security model as DTLS) including the use of a path challenge for both old and new paths.\r\nWe may want to have some similar discussion in this document.",
+      "createdAt": "2021-06-08T16:29:21Z",
+      "updatedAt": "2021-06-08T16:29:21Z",
       "closedAt": null,
       "comments": []
     }
